@@ -13,6 +13,7 @@ I have been working successfully in a multicultural environment for more then 6 
 - 👀 I’m interested in JavaScript, Typescript, Angular, Node.js.
 - 🌱 I’m currently learning React and Telegraf.
 - 📫 You can reach me using [email](mailto:p.khlebko@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pavel-khlebko-545339137/).
+- 💶 You can download my CV [here](http://khlebko.com/downloads/pavel_khlebko_cv_eng.pdf).
 
 <!---
 pkhlebko/pkhlebko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
