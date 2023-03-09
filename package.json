@@ -1,0 +1,10 @@
+{
+  "name": "khlebko.com",
+  "version": "2.1.0",
+  "description": "Khlebko.com website",
+  "homepage": "https://khlebko.com",
+  "main": "index.html",
+  "author": "Pavel Khlebko",
+  "email" : "pavel@khlebko.com",
+  "license": "ISC"
+}

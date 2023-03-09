@@ -1,0 +1,97 @@
+$background-color: #fff;
+$background-accent: #ecf0f1;
+$font-color: #494948;
+$contrast-accent: #ffc61b;
+$medium-accent: #38c6d9;
+$darker-accent: #273b7a;
+$darkest-accent: #121149;
+
+$mobile-device: 768px;
+$laptop-desktop: 980px;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  border-top: 0.5rem solid #386895;
+  border-bottom: 0.5rem solid #273b7a;
+  padding: 0 0 0.5rem 0;
+}
+
+body {
+  background: $background-color;
+  color: $font-color;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 16pt;
+  max-width: $laptop-desktop;
+  margin: 1em 2em;
+
+  @media only screen and (min-width: $mobile-device) {
+    font-size: 15pt;
+    margin: 2em 4em;
+  }
+
+  @media only screen and (min-width: $laptop-desktop) {
+    font-size: 14pt;
+    margin: 2em auto;
+  }
+}
+
+nav {
+  text-align: center;
+  margin: 1em 0;
+}
+
+a {
+  color: $darker-accent;
+
+  &:hover {
+    color: $medium-accent;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  text-align: center;
+}
+
+h1 {
+  white-space: nowrap;
+
+  a {
+    color: $darker-accent;
+    text-decoration: none;
+  }
+}
+
+h2 {
+  color: $contrast-accent;
+  margin: 1em 0 0.5em 0;
+}
+
+h3 {
+  color: lighten($darker-accent, 10%);
+  font-size: 1.4rem;
+  margin: 0.6em 0 0.3em 0;
+  text-align: left;
+}
+
+p {
+  margin: 0.3em 0;
+}
+
+ul {
+  list-style: square outside;
+  margin: 0.5em 1.5em;
+  li {
+    margin: 0.2em 0;
+  }
+}
