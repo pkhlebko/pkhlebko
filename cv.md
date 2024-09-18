@@ -1,25 +1,24 @@
-# Pavel Khlebko CV
+# Pavel Khlebko - full-stack developer (Angular, Node.js)
 
 Front-end/Full-stack developer (Angular, Node.js, Typescript)
 
+[p.khlebko@gmail.com](mailto:p.khlebko@gmail.com) | [github.com/pkhlebko](https://github.com/pkhlebko) | [khlebko.com](http://khlebko.com)
+
 ## Summary
 
-I'm a JavaScript developer with more than 10 years of IT experience (front-end developer Angular, Angular.js, JQuery, back-end developer
-Node.js, .net).
+I'm a JavaScript developer with more than 10 years of IT experience.
 
-I have proven practical experience with Angular, Node.js, JavaScript, TypeScript, HTML, CSS, Scss, Less, Angular.js, D3.js, and AWS.
+I have proven practical experience with JavaScript, TypeScript, Angular, Nest.js, Node.js, Deno, HTML, CSS, Scss, Less, Angular.js, D3.js, and AWS.
 
-I have successful practical experience in the development of web applications from scratch and upgrading of existing Angular.js applications
-to Angular 2+.
+I have successful practical experience in the development of web applications from scratch and upgrading of existing Angular.js applications to Angular 2+.
 
-I have been working successfully in a multicultural environment for more than 6 years.
+I have been working successfully in a multicultural environment.
 
 ## Skills
 
 ### JS and web
 
-Angular, Node.js, HTML5, CSS, SCSS, LESS, Typescript, JavaScript (ES5, ES6+), Jasmine, Jest, Angular.js, React, Redux, D3.js, jQuery,
-PhantomJS, WordPress, Bootstrap, Webpack, Grunt, Gulp.
+Angular, Node.js, HTML5, CSS, SCSS, LESS, Typescript, JavaScript (ES5, ES6+), Jasmine, Jest, Angular.js, React, Redux, D3.js, jQuery, PhantomJS, WordPress, Bootstrap, Webpack, Grunt, Gulp.
 
 ### Databases
 
@@ -27,10 +26,10 @@ MySQL/MariaDB, Postgress, MongoDB.
 
 ## Languages
 
-- English — B2 Upper-intermediate.
-- Belarussian – Native.
-- Russian – Native.
-- Lithuanian - A1.
+* English — B2 Upper-intermediate.
+* Belarussian — Native.
+* Russian — Native.
+* Lithuanian - A1.
 
 ## Education
 
@@ -40,67 +39,60 @@ MySQL/MariaDB, Postgress, MongoDB.
 
 ### Oilfield services company (USA)
 
-_October 2021 – Now_ / IT Contractor - Developer
+_October 2021 — Now_ / IT Contractor - Developer
 
-Responsible for:
-
-- New features implementation and application optimization for FE (Angular) and BE (Node.js, Nest.js);
-- Support of production application;
+* Lead full-stack development team. Negotiated with managers and the BA team. Clarified requirements. Aligned work with other teams. Created tasks. Planned and estimated team work.
+* Designed new micro-frontends and microservices from scratch. Developed new features. Controlled code quality.
+* Implemented new features and optimized application using TS, Angular, Angular Material and Nest.js.
+* Supported production application.
+* Onboard new team members.
 
 ### Financial services company (USA)
 
-_November 2020 – October 2021_ / IT Contractor – Development Team lead.
+_November 2020 — October 2021_ / IT Contractor — Development Team lead.
 
-Responsible for:
-
-- Migration of Angular.js application to Angular through the hybrid application.
-- Implementation of new features, views, dialogs.
-- Management of development in the front-end development team.
+* Migrated Angular.js application to Angular 9 through the hybrid application.
+* Implemented of features, views, dialogs.
+* Lead front-end development team. Negotiated with managers and the BA team. Clarified requirements. Created tasks. Planned and estimated team work.
 
 ### Clarivate Analytics (USA)
 
-_April. 2017 – November 2020_ / IT Contractor – Development Team lead.
+_April. 2017 — November 2020_ / IT Contractor — Development Team lead.
 
-Responsible for:
-
-- Migration of Angular.js application to Angular through the hybrid application.
-- Implementation of new features, views, dialogs.
-- Development of REST API.
-- Management of development in the front-end development team.
+* Migrated Angular.js application to Angular 4 through the hybrid application.
+* Implemented of features, views, dialogs.
+* Developed REST API.
+* Managed development in the front-end development team.
 
 ### Multinational media conglomerate (USA)
 
-_January 2017 – April 2017_ / IT Contractor – Key Developer.
+_January 2017 — April 2017_ / IT Contractor — Key Developer.
 
-Responsible for:
-
-- Support of production application;
-- New features implementation and application optimization;
-- REST API development
+* Supported of production application.
+* Implemented new features and optimized application performance.
+* Developed REST API.
 
 ### SCAD techno LLC (Belarus)
 
-_August 2009 – January 2016_ / Software Engineer - Director & Software Development Team Lead - Director.
+_August 2009 — January 2016_ / Software Engineer - Director & Software Development Team Lead - Director.
 
-Responsible for:
-
-- Development of application architecture.
-- Implementation of the backend part of the application using VB.net and MySql.
-- Implementation of the frontend part of the application using Html, JavaScript, Jquery.
-- Integration of the solution into the firmware of PLC based on embedded Linux.
-- Development and execution of the company’s business strategies.
-- Oversee the company’s financial performance.
-- Analyze problematic situations and occurrences and provide solutions.
+* Developed application architecture.
+* Implemented the backend part of the application using VB.net and MySql.
+* Implemented the frontend part of the application using Html, JavaScript, Jquery.
+* Integrated the solution into the firmware of PLC based on embedded Linux.
+* Developed and executed the company's business strategies.
+* Overseen the company's financial performance.
+* Analyzed problematic situations and occurrences and provided solutions.
 
 ## Carrier path
 
 ### EPAM Systems
 
-_December 2016 – Prsent_ / Software Engineer - Senior Software Engineer.
+_December 2016 — Present_ / Software Engineer - Senior Software Engineer.
 
 ### SCAD techno LLC
 
-_August 2009 – January 2016_ / Software Engineer - Director & Software Development Team Lead - Director.
+_August 2009 — January 2016_ / Software Engineer - Director & Software Development Team Lead - Director.
 
 ### Molecular genetic research of hemoblastoses and homeopathies lab
 
