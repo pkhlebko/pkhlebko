@@ -11,7 +11,7 @@ Hi have successful practical experience in the development of web application fr
 - 👀 I’m interested in JavaScript, TypeScript, Angular, Node.js and Nest.js.
 - 🌱 I’m currently learning AWS.
 - 📫 You can reach me using [email](mailto:p.khlebko@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pavel-khlebko-545339137/).
-- 💶 You can download my CV [here](http://khlebko.com/downloads/pavel_khlebko_cv_eng.pdf).
+- 💶 You can download my CV [here](http://khlebko.com/pavel_khlebko_cv_eng.pdf).
 
 <!---
 pkhlebko/pkhlebko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
