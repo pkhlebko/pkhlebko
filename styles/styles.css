@@ -29,9 +29,8 @@
   }
 
   html {
-    border-top: 1rem solid light-dark(var(--light-top-border), var(--dark-top-border));
-    border-bottom: 1rem solid light-dark(var(--light-top-border), var(--dark-top-border));
-    padding: 0 0 0.5rem 0;
+    border-top: 1em solid light-dark(var(--light-top-border), var(--dark-top-border));
+    padding: 0;
   }
 
   body {
@@ -43,6 +42,18 @@
     font-size: 16pt;
     max-width: 980px;
     margin: 1em 2em;
+  }
+
+  html::after {
+    display: block;
+    content: '© 2024 Pavel Khlebko 🐊';
+    font-size: 0.6em;
+    text-align: right;
+    height: 2em;
+    line-height: 2em;
+    padding: 0 2em;
+    color: light-dark(var(--light-font-accent), var(--dark-font-accent));
+    background: light-dark(var(--light-top-border), var(--dark-top-border));
   }
 
   @media only screen and (min-width: 768px) {
