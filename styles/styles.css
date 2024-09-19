@@ -33,17 +33,6 @@ html {
   padding: 0;
 }
 
-body {
-  background: light-dark(var(--light-bg), var(--dark-bg));
-  color: light-dark(var(--light-font), var(--dark-font));
-  font-family: "Source Code Pro", monospace;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-size: 16pt;
-  max-width: 980px;
-  margin: 1em 2em;
-}
-
 html::after {
   display: block;
   content: "© 2024 Pavel Khlebko 🐊";
@@ -54,6 +43,18 @@ html::after {
   padding: 0 2em;
   color: light-dark(var(--light-font-accent), var(--dark-font-accent));
   background: light-dark(var(--light-top-border), var(--dark-top-border));
+}
+
+body {
+  background: light-dark(var(--light-bg), var(--dark-bg));
+  color: light-dark(var(--light-font), var(--dark-font));
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 16pt;
+  max-width: 980px;
+  margin: 1em 2em;
+  border: none;
 }
 
 @media only screen and (min-width: 768px) {
