@@ -11,7 +11,8 @@
       "Bash(npm install *)",
       "Read(//c/nvm4w/nodejs/**)",
       "Read(//c/nvm4w/nodejs//**)",
-      "Bash(npx md-to-pdf *)"
+      "Bash(npx md-to-pdf *)",
+      "Bash(npm run *)"
     ]
   }
 }

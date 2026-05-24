@@ -5,12 +5,15 @@
   "homepage": "https://khlebko.com",
   "main": "index.html",
   "author": "Pavel Khlebko",
-  "email" : "pavel@khlebko.com",
+  "email": "pavel@khlebko.com",
   "license": "ISC",
   "scripts": {
-    "cv:pdf": "md-to-pdf pavel_khlebko_cv_eng.md --config-file .claude/skills/cv-pdf/md-to-pdf.config.js"
+    "cv:html": "node scripts/generate-html.mjs",
+    "cv:pdf": "md-to-pdf pavel_khlebko_cv_eng.md --config-file .claude/skills/cv-pdf/md-to-pdf.config.js",
+    "cv": "npm run cv:html && npm run cv:pdf"
   },
   "devDependencies": {
+    "marked": "^18.0.4",
     "md-to-pdf": "^5.0.0"
   }
 }

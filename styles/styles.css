@@ -128,3 +128,22 @@ ul li {
   color: light-dark(var(--light-font-accent), var(--dark-font-accent));
   margin: 0.8em 0;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5em 0;
+  font-size: 0.9em;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 0.4em 0.8em;
+  border-bottom: 1px solid light-dark(var(--light-font-accent), var(--dark-font-accent));
+}
+
+th {
+  color: light-dark(var(--light-contrast-accent), var(--dark-contrast-accent));
+  font-weight: 600;
+}
