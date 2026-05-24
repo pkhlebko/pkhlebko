@@ -8,7 +8,7 @@
   "email" : "pavel@khlebko.com",
   "license": "ISC",
   "scripts": {
-    "cv:pdf": "md-to-pdf cv.md --config-file .claude/skills/cv-pdf/md-to-pdf.config.js"
+    "cv:pdf": "md-to-pdf pavel_khlebko_cv_eng.md --config-file .claude/skills/cv-pdf/md-to-pdf.config.js"
   },
   "devDependencies": {
     "md-to-pdf": "^5.0.0"
