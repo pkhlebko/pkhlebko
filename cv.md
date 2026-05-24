@@ -1,107 +1,138 @@
-# Pavel Khlebko - full-stack developer (Angular, Node.js)
+# Pavel Khlebko
 
-Front-end/Full-stack developer (Angular, Node.js, Typescript)
+**Full-Stack Agentic Engineer (Angular, Node.js, TypeScript)**
 
-[p.khlebko@gmail.com](mailto:p.khlebko@gmail.com) | [github.com/pkhlebko](https://github.com/pkhlebko) | [khlebko.com](http://khlebko.com)
+[p.khlebko@gmail.com](mailto:p.khlebko@gmail.com) | [github.com/pkhlebko](https://github.com/pkhlebko) | [khlebko.com](http://khlebko.com) | [Download CV](http://khlebko.com/pavel_khlebko_cv_eng.pdf)
 
 ## Summary
 
-I'm a JavaScript developer with more than 10 years of IT experience.
+Full-Stack Agentic Engineer with 10+ years building secure, maintainable web systems and evolving delivery toward AI-orchestrated workflows.
 
-I have proven practical experience with JavaScript, TypeScript, Angular, Nest.js, Node.js, Deno, HTML, CSS, Scss, Less, Angular.js, D3.js, and AWS.
+I combine full-stack ownership and system design with agent direction and automation to improve velocity and reliability.
 
-I have successful practical experience in the development of web applications from scratch and upgrading of existing Angular.js applications to Angular 2+.
-
-I have been working successfully in a multicultural environment.
+- **Delivery ownership:** End-to-end implementation across front-end and back-end; team leadership and cross-domain delivery.
+- **Architecture and reliability:** Microservices, micro-frontends, dynamic routing, security-first engineering.
+- **AI and tooling:** Generative workflow structuring; OpenSpec; Swagger-codegen; automated project tasks via Claude Code and GitHub Copilot CLI; AI-assisted migrations from Angular.js to Angular 18.
+- **Selected achievements:** Angular UI library architecture; cross-platform PDF reporting with D3.js and AWS Lambda; full migration leadership.
 
 ## Skills
 
 ### JS and web
 
-Angular, Node.js, HTML5, CSS, SCSS, LESS, Typescript, JavaScript (ES5, ES6+), Jasmine, Jest, Angular.js, React, Redux, D3.js, jQuery, PhantomJS, WordPress, Bootstrap, Webpack, Grunt, Gulp.
+Angular, NestJS, TypeScript, JavaScript (ES5, ES6+), Node.js, D3.js, React, jQuery, HTML, CSS, SCSS, Less, Angular Material, AngularJS, Karma, Jest, Jasmine, Mocha, Cypress, PhantomJS, Swagger Codegen, Webpack, Grunt.
+
+### Cloud and DevOps
+
+AWS, Google Cloud Platform, Azure DevOps, Docker, AWS Lambda.
 
 ### Databases
 
-MySQL/MariaDB, Postgress, MongoDB.
+PostgreSQL, MySQL/MariaDB, Oracle, Elastic Search.
 
 ## Languages
 
-* English — B2 Upper-intermediate.
-* Belarussian — Native.
-* Russian — Native.
-* Lithuanian - A1.
+- English — B2 Upper-intermediate
+- Belarussian — Native
+- Russian — Native
+- Lithuanian — A2
 
 ## Education
 
-2002 - 2007 Biology - Belarusian State University
+2002 - 2007 Biology — Belarusian State University
 
 ## Past projects
 
-### Oilfield services company (USA)
+### SLB — myDigitalProduct
 
-_October 2021 — Now_ / IT Contractor - Developer
+*April 2026 — Present* / Team Lead
 
-* Lead full-stack development team. Negotiated with managers and the BA team. Clarified requirements. Aligned work with other teams. Created tasks. Planned and estimated team work.
-* Designed new micro-frontends and microservices from scratch. Developed new features. Controlled code quality.
-* Implemented new features and optimized application using TS, Angular, Angular Material and Nest.js.
-* Supported production application.
-* Onboard new team members.
+- Gathered, documented, and validated requirements with stakeholder engagement.
+- Guided architectural and design decisions aligned with project goals.
+- Conducted code reviews to maintain quality and compliance.
+- Drove AI adoption by setting up AI workflows and integrating AI-powered skills.
 
-### Financial services company (USA)
+### SLB — VTC
 
-_November 2020 — October 2021_ / IT Contractor — Development Team lead.
+*September 2025 — April 2026* / Team Lead
 
-* Migrated Angular.js application to Angular 9 through the hybrid application.
-* Implemented of features, views, dialogs.
-* Lead front-end development team. Negotiated with managers and the BA team. Clarified requirements. Created tasks. Planned and estimated team work.
+- Proposed end-to-end delivery models for SLB Virtual Technical Center program.
+- Gathered and validated requirements ensuring traceability and stakeholder engagement.
+- Guided architectural and design decisions.
+- Developed and optimized key features, troubleshooting technical issues.
 
-### Clarivate Analytics (USA)
+### Takeda — Human Factors Data Management
 
-_April. 2017 — November 2020_ / IT Contractor — Development Team lead.
+*February 2025 — August 2025* / Team Lead
 
-* Migrated Angular.js application to Angular 4 through the hybrid application.
-* Implemented of features, views, dialogs.
-* Developed REST API.
-* Managed development in the front-end development team.
+- Gathered and validated requirements with stakeholder engagement.
+- Implemented new functionality on existing MVP Angular application with AWS infrastructure.
+- Guided architectural and design decisions aligned with project goals.
+- Implemented security best practices to safeguard systems and data.
 
-### Multinational media conglomerate (USA)
+### Schlumberger North America — Well Operations Advisor
 
-_January 2017 — April 2017_ / IT Contractor — Key Developer.
+*October 2021 — December 2024* / Team Lead, Key Engineer
 
-* Supported of production application.
-* Implemented new features and optimized application performance.
-* Developed REST API.
+- Led full-stack development team. Planned and estimated timelines and deliverables.
+- Designed micro-frontends and microservices from scratch.
+- Led migration to new component library.
+- Negotiated project details with managers and BA team. Onboarded new team members.
 
-### SCAD techno LLC (Belarus)
+### Thomson Reuters — ONVI
 
-_August 2009 — January 2016_ / Software Engineer - Director & Software Development Team Lead - Director.
+*May 2021 — October 2021* / Key Engineer, Team Lead
 
-* Developed application architecture.
-* Implemented the backend part of the application using VB.net and MySql.
-* Implemented the frontend part of the application using Html, JavaScript, Jquery.
-* Integrated the solution into the firmware of PLC based on embedded Linux.
-* Developed and executed the company's business strategies.
-* Overseen the company's financial performance.
-* Analyzed problematic situations and occurrences and provided solutions.
+- Led frontend development team.
+- Managed migration of applications from Angular.js to Angular.
+- Developed framework-agnostic vanilla TypeScript libraries.
+- Maintained corporate UI component library.
+- Implemented automated code generation utilizing Swagger Codegen.
 
-## Carrier path
+### Thomson Reuters — Checkpoint Engage
 
-### EPAM Systems
+*November 2020 — April 2021* / Key Engineer
 
-_December 2016 — Present_ / Software Engineer - Senior Software Engineer.
+- Migrated Angular.js application to Angular 9.
+- Implemented linting, static code analysis, and 90% unit test coverage standard.
+- Implemented new functionalities within the application.
+- Supported production application.
+
+### Clarivate Analytics — Scholarly Citation Network
+
+*November 2018 — October 2020* / Key Front-end Developer
+
+- Led front-end team, created JIRA stories, mentored developers, conducted interviews.
+- Managed Angular.js to Angular 5 migration via hybrid approach.
+- Developed chart types, PDF export with D3.js, dialog interfaces.
+- Directed accessibility enhancement and performance optimization efforts.
+- Developed React.js migration POC for report widgets.
+
+### Clarivate Analytics — Scholarly Citation Network
+
+*December 2016 — November 2018* / Engineer
+
+- Implemented features, views, and dialog interfaces for production application.
+- Developed POC for report generation using AWS Lambda with Node.js.
+- Configured Phantom.js for server-side scripting.
+- Developed REST APIs for new features.
+- Managed front-end development team.
 
 ### SCAD techno LLC
 
-_August 2009 — January 2016_ / Software Engineer - Director & Software Development Team Lead - Director.
+*August 2009 — September 2016* / Team Lead
 
-### Molecular genetic research of hemoblastoses and homeopathies lab
+- Developed application architecture.
+- Implemented backend using VB.net and MySQL.
+- Implemented frontend using HTML, JavaScript, jQuery.
+- Integrated solution into PLC firmware based on embedded Linux.
+- Developed and executed company business strategies.
 
-_August 2007 — July 2009_ / Researcher.
+## Career path
 
-### Freelance
-
-_August 2005 — July 2009_ / Web developer.
-
-### Ensytech LLC
-
-_July 2003 — March 2005_ / Network administrator.
+| Period | Company | Role |
+|--------|---------|------|
+| December 2016 — Present | EPAM Systems | Software Engineer — Team Lead |
+| August 2009 — September 2016 | SCAD techno LLC | Software Engineer — Director & Team Lead |
+| August 2007 — July 2009 | Molecular genetic research of hemoblastoses and homeopathies lab | Researcher |
+| August 2005 — July 2009 | Freelance | Web developer |
+| July 2003 — March 2005 | Ensytech LLC | Network administrator |

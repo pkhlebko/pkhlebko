@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__getDiagnostics",
+      "Bash(code --list-extensions)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\pkhle\\\\Documents\\\\Projects\\\\pkhlebko\" -Recurse -Force)",
+      "Bash(Select-Object FullName, Mode)",
+      "Bash(Format-Table -AutoSize)",
+      "WebFetch(domain:github.com)",
+      "WebSearch",
+      "Bash(npm install *)",
+      "Read(//c/nvm4w/nodejs/**)",
+      "Read(//c/nvm4w/nodejs//**)",
+      "Bash(npx md-to-pdf *)"
+    ]
+  }
+}

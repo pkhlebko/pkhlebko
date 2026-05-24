@@ -25,3 +25,7 @@ Prettier is configured in `.prettierrc` — printWidth 140, proseWrap always, ta
 - CSS variables in `:root` define dual light/dark palette; `light-dark()` applies them
 - `html::after` pseudo-element renders the footer copyright
 - Responsive breakpoints: 768px (tablet), 980px (desktop)
+- `/cv-pdf` skill: generates PDF from cv.md. Run `/cv-pdf` or `npm run cv:pdf`
+- PDF generation uses `md-to-pdf` (dev dep) with config at `.claude/skills/cv-pdf/md-to-pdf.config.js` and styles at `.claude/skills/cv-pdf/pdf-style.css`
+- PDF styling uses site's light-theme colors directly (no `light-dark()` — Puppeteer doesn't support it)
+- CV content lives in two synced files: `index.html` (site) and `cv.md` (PDF source) — update both when changing CV content

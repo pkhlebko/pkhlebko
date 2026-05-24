@@ -6,5 +6,11 @@
   "main": "index.html",
   "author": "Pavel Khlebko",
   "email" : "pavel@khlebko.com",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "cv:pdf": "md-to-pdf cv.md --config-file .claude/skills/cv-pdf/md-to-pdf.config.js"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.0.0"
+  }
 }
